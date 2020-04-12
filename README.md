@@ -1,3 +1,3 @@
 # mosik
 
-(#core)[Core]
+Hello
