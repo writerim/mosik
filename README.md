@@ -1,1 +1,3 @@
 # mosik
+
+(#core)[Core]
